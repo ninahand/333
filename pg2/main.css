@@ -34,16 +34,20 @@ body {
     display: block;
 }
 
-.articleContainer {
+.articleContainer, .noReadContainer {
     width: 100vw;
     column-count: 9; 
     column-gap: 10px;
 }
 
-p {
+p, .noReadContainer {
     color: #5E444D;
     font-size: 2rem;
     filter: blur(3px);
-    transition: font-size 0.2s ease; 
+    transition: 0.5s ease; 
     text-align: justify;
+}
+
+p:hover{
+    font-size: 10rem;
 }
