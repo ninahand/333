@@ -84,14 +84,12 @@ p{
 .corner-button {
     font-family: "garamond";
     position: fixed;
-    bottom: 20px;
-    left: 20px;
-    padding: 10px 20px;
+    bottom: -9rem;
+    left: -3rem;
     color: #919191;
     border: none;
-    border-radius: 5px;
     cursor: pointer;
-    font-size: 3rem;
+    font-size: 30rem;
     filter: blur(2px);
     transition: background-color 0.3s ease;
 }
@@ -101,6 +99,11 @@ color: #F6CE04;
 }
 
 
-.corner-button:visited {
-    text-decoration: none; 
-}
+a.corner-button {
+    text-decoration: none;
+  }
+
+  a.corner-button:visited {
+    text-decoration: none;
+  }
+
