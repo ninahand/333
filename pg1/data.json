@@ -31,7 +31,7 @@
         "quote": "The case n = 3 is easy.", 
     "medal":"are" },
     { "image": "./assets/invertedImages/inverted8-min.jpg", 
-        "quote":"Each of the six “flavors” of quarks can have three different “colors”. The quark forces are attractive only in “colorless” combinations of three quarks (baryons), quark-antiquark pairs (mesons) and possibly larger combinations such as the pentaquark that could also meet the colorless condition.",
+        "quote":"Each of the six “flavors” of quarks can have three different “colors”. The quark forces are attractive only in “colorless” combinations of three quarks (baryons), quark-antiquark pairs (mesons) and possibly larger combinations.",
         "medal": "awarded"},
     
         { "image": "./assets/invertedImages/inverted9-min.jpg", 
@@ -80,7 +80,7 @@
         "quote": "While scholars point out that perception is not governed by specific laws, they agree on an underlying mechanism of attention.",
     "medal":"to"},
     { "image": "./assets/invertedImages/inverted25-min.jpg", 
-    "quote": "If Q and Q′ are convex (planar or spherical) n-gons,  such that qi qi+1 = q′iq′i+1 holds for the lengths of corresponding edges for 1 ≤ i ≤ n − 1, and αi ≤ α′i holds for the sizes of corresponding angles for 2 ≤ i ≤ n − 1, then the “missing” edge length satisfies q1qn ≤ q′1q′n with equality if and only if αi = α′i holds for all i.",
+    "quote": "Q and Q′ are convex (planar or spherical) n-gons, such that qi qi+1 = q′iq′i+1 holds for the lengths of corresponding edges for 1 ≤ i ≤ n − 1, and αi ≤ α′i holds for the sizes of corresponding angles for 2 ≤ i ≤ n − 1."
     "medal":"the"},
     { "image": "./assets/invertedImages/inverted26-min.jpg", 
     "quote": "The assumption may not be correct in practice.",
@@ -90,7 +90,7 @@
     "medal": "three"
     },
     { "image": "./assets/invertedImages/inverted29-min.jpg",
-        "quote":"The conditional independence assumption can be relaxed by extending the model to add correlated errors, as and when there are extra df available for fitting, or possibly by assuming correlation values to be known, by making alternative assumptions, or by adopting Bayesian methods.",
+        "quote":"The conditional independence assumption can be relaxed by extending the model to add correlated errors, as and when there are extra df available for fitting.",
     "medal": "runners."},
     { "image": "./assets/invertedImages/inverted30-min.jpg",
         "quote":" In our analytic development, and in also in the data-based examples, we assumed independence between the repeated test results, conditional on the true latent state of an individual. ",
@@ -126,7 +126,7 @@
     "quote":"Peter denied Jesus three times (Luke 22:54-62), and three times Jesus affirmed his love (John 21:15-17).",
 "medal": "fastest"  },
     { "image": "./assets/invertedImages/inverted41-min.jpg",
-    "quote": "Thus for the five raters combined, there are 47 = 16 384 possible response patterns, and 20 × 44 = 5120 possible informative patterns of results for a given patient. ",
+    "quote": "Thus for the five raters combined, there are 47 = 16 384 possible response patterns, and 20 × 44 = 5120 possible informative patterns.",
 "medal":"three"  },
     { "image": "./assets/invertedImages/inverted42-min.jpg",
     "quote": "Tipper and Weaver suggest that the visual system relies on attention; without it, objects cannot be processed, nor recognized. ",
