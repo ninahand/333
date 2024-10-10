@@ -57,7 +57,7 @@ document.addEventListener('wheel', function() {
             envelope:{
                 attack: 2,      
                 decay: 0.5,
-                sustain: 0.7,   
+                sustain: 0.3,   
                 release: 3      
             }
         }).toDestination();
