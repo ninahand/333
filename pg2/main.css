@@ -49,5 +49,28 @@ p, .noReadContainer {
 }
 
 p:hover{
-    font-size: 10rem;
+    font-size: 5rem;
+}
+
+.corner-button {
+    font-family: "garamond";
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    color: #919191;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 3rem;
+    filter: blur(2px);
+    transition: background-color 0.3s ease;
+}
+
+.corner-button:hover {
+color: #F6CE04;
+}
+
+.corner-button:visited {
+    text-decoration: none; /* No underline for visited links */
 }
